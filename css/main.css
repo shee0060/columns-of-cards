@@ -8,22 +8,24 @@ html {
 }
 
 img {
-  display: inline-block;
+  display: block;
   width: 100%;
 }
 
 body {
-
+  margin: 0;
 }
 
 .btn {
-
+  color: #fff;
+  background-color: #ccc;
 }
 
 .btn:hover {
-
+  color: #fff;
+  background-color: #000;
 }
 
 .btn-small {
-
+  border: 3px #000 solid;
 }
