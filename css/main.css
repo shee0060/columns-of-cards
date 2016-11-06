@@ -2,6 +2,7 @@ html {
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
   line-height: 1.5;
+  background-color: #f3f3f3;
 }
 
 *, *::before, *::after {
@@ -18,27 +19,35 @@ body {
   margin: 0;
 }
 
-header {
+h1 {
+  display: inline-block;
   text-align: center;
+  margin: 0;
+  padding: 1.5rem;
 }
 
 section {
   float: left;
   display: inline-block;
-  background-color: #333;
-  padding: 1.5rem;
+  background-color: #e2e2e2;
+  padding: .875rem;
+  margin: 0;
+}
+
+a {
+  list-style-type: none;
+  text-decoration: none;
+  text-size: .875rem;
 }
 
 .btn {
   color: #fff;
-  background-color: #ccc;
+  background-color: #333;
+  border: 3px #333 solid;
+  border-radius: 6px;
 }
 
 .btn:hover {
   color: #fff;
   background-color: #000;
-}
-
-.btn-small {
-  border: 3px #000 solid;
 }
