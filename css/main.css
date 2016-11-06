@@ -10,10 +10,15 @@ html {
 img {
   display: block;
   width: 100%;
+  max-width: 25%;
 }
 
 body {
   margin: 0;
+}
+
+section {
+  float: left;
 }
 
 .btn {
