@@ -37,18 +37,22 @@ div {
 
 .box-1 {
   float: left;
+  width: 25%;
 }
 
 .box-2 {
   float: left;
+  width: 25%;
 }
 
 .box-3 {
   float: left;
+  width: 25%;
 }
 
 .box-4 {
   float: left;
+  width: 25%;
 }
 
 a {
