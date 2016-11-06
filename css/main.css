@@ -37,7 +37,7 @@ section {
 a {
   list-style-type: none;
   text-decoration: none;
-  text-size: .875rem;
+  font-size: .875rem;
 }
 
 .btn {
