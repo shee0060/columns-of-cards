@@ -2,7 +2,7 @@ html {
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
   line-height: 1.5;
-  background-color: #f3f3f3;
+  background-color: #f2f32f2;
 }
 
 *, *::before, *::after {
@@ -12,7 +12,6 @@ html {
 img {
   display: block;
   width: 100%;
-  max-width: 25%;
   margin: 0 auto 1.5rem;
   padding: .75rem;
 }
@@ -32,6 +31,10 @@ h2, h3, p {
   font-size: .875rem;
 }
 
+h2 {
+  font-style: bold;
+}
+
 h3 {
   font-style: italic;
 }
@@ -41,8 +44,9 @@ div {
   float: left;
   font-size: .875rem;
   background-color: #e2e2e2;
-  margin: 0;
+  margin: 0 0 1.5rem;
   padding: 1.5rem;
+  border-left: 1px #333 solid;
 }
 
 .box-1 {
