@@ -27,11 +27,28 @@ h1 {
   padding: 1.5rem;
 }
 
-section {
+div {
+  display: inline-block;
   float: left;
   background-color: #e2e2e2;
   padding: .875rem;
   margin: 0;
+}
+
+.box-1 {
+  float: left;
+}
+
+.box-2 {
+  float: left;
+}
+
+.box-3 {
+  float: left;
+}
+
+.box-4 {
+  float: left;
 }
 
 a {
@@ -50,4 +67,8 @@ a {
 .btn:hover {
   color: #fff;
   background-color: #000;
+}
+
+.btn-small {
+  margin: 0;
 }
