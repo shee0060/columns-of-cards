@@ -36,7 +36,7 @@ p {
 }
 
 div {
-  display: inline-block;
+  display: block;
   float: left;
   font-size: .875rem;
   background-color: #e2e2e2;
