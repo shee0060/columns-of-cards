@@ -35,7 +35,6 @@ section {
 
 h1 {
   display: block;
-  font-family: "Open Sans", sans-serif;
   font-weight: bolder;
   text-align: center;
   margin: 0;
@@ -45,7 +44,6 @@ h1 {
 }
 
 h2 {
-  font-family: "Open Sans", sans-serif;
   font-weight: bold;
   font-size: .899em;
   line-height: 1.5;
