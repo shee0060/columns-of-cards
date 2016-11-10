@@ -104,3 +104,8 @@ p {
 .btn-small {
   font-size: .875rem;
 }
+
+a {
+  list-style-type: none;
+  text-decoration: none;
+}
