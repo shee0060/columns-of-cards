@@ -87,12 +87,6 @@ p {
   background-color: #999;
 }
 
-a {
-  list-style-type: none;
-  text-decoration: none;
-  font-size: .875rem;
-}
-
 .btn {
   display: inline-block;
   color: #fff;
