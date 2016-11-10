@@ -64,26 +64,18 @@ p {
 }
 
 .box-1 {
-  float: left;
-  width: 25%;
   background-color: #e2e2e2;
 }
 
 .box-2 {
-  float: left;
-  width: 25%;
   background-color: #ccc;
 }
 
 .box-3 {
-  float: left;
-  width: 25%;
   background-color: #aaa;
 }
 
 .box-4 {
-  float: left;
-  width: 25%;
   background-color: #999;
 }
 
