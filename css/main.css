@@ -1,9 +1,7 @@
 html {
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
-  line-height: 1.5;
   padding: .75rem;
-  background-color: #f2f2f2;
 }
 
 *, *::before, *::after {
@@ -12,9 +10,9 @@ html {
 
 img {
   display: block;
-  width: 100%;
+  text-align: center;
+  width: 100px;
   margin: 0 auto 1.5rem;
-  padding: 1.5rem;
 }
 
 body {
@@ -22,6 +20,7 @@ body {
   margin: 0;
   margin-bottom: 1.5rem;
   padding: .75rem;
+  background-color: #f2f2f2;
 }
 
 section {
